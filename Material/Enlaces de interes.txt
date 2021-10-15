@@ -3,3 +3,5 @@ Posibles fuentes : https://www.1001freefonts.com/es/karmatic-arcade.font
 		   https://www.1001freefonts.com/es/lcd-fonts.php
 
 Enlace de interes (fuentes, objetos, texturas, etc): https://assetstore.unity.com/2d/fonts?category=2d%2Fgui&free=true&orderBy=1
+
+PNG: https://es.pngtree.com/so/estrella-blanca

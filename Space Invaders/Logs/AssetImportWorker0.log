@@ -228,3 +228,115 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4873.838027 seconds.
+  path: Assets/Materiales/E
+  artifactKey: Guid(262ea42a18b5bd247949f4c352291463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/E using Guid(262ea42a18b5bd247949f4c352291463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b0657cd18103b6a60d6d41e6fbe82d') in 0.008728 seconds 
+  Import took 0.011228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.703415 seconds.
+  path: Assets/Materiales/introScreen
+  artifactKey: Guid(d4928e8b081972b4598cba6f5dcef191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/introScreen using Guid(d4928e8b081972b4598cba6f5dcef191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2492ccdd15ef6a59aa3273a7466b29') in 0.005734 seconds 
+  Import took 0.007726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.135666 seconds.
+  path: Assets/Materiales/introScreen/Estrellas
+  artifactKey: Guid(262ea42a18b5bd247949f4c352291463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/introScreen/Estrellas using Guid(262ea42a18b5bd247949f4c352291463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdd1fbe42f1ea3450404268be956590f') in 0.004984 seconds 
+  Import took 0.007169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.136700 seconds.
+  path: Assets/Materiales/introScreen/Estrellas/—Pngtree—luminous effect of white stars_5054152.png
+  artifactKey: Guid(0cc144e2b7c349f4393af63370129928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/introScreen/Estrellas/—Pngtree—luminous effect of white stars_5054152.png using Guid(0cc144e2b7c349f4393af63370129928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c5bd88807c1e6bb693a2a5604253b2') in 0.034397 seconds 
+  Import took 0.036634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Materiales/introScreen/Estrellas/—Pngtree—stars white glitter abstract pattern_6670158.png
+  artifactKey: Guid(daec41cf46ddabe4e8235ce6fb045172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/introScreen/Estrellas/—Pngtree—stars white glitter abstract pattern_6670158.png using Guid(daec41cf46ddabe4e8235ce6fb045172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '606473a8af6ac8d167147622aff23311') in 0.007906 seconds 
+  Import took 0.009759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.812624 seconds.
+  path: Assets/Materiales/introScreen/Estrellas/—Pngtree—stars white glitter abstract pattern_6670158.png
+  artifactKey: Guid(daec41cf46ddabe4e8235ce6fb045172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/introScreen/Estrellas/—Pngtree—stars white glitter abstract pattern_6670158.png using Guid(daec41cf46ddabe4e8235ce6fb045172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87804426e8ae3c600740d5bef6699627') in 0.028940 seconds 
+  Import took 0.031266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.928900 seconds.
+  path: Assets/Materiales/introScreen/Estrellas/—Pngtree—luminous effect of white stars_5054152.png
+  artifactKey: Guid(0cc144e2b7c349f4393af63370129928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/introScreen/Estrellas/—Pngtree—luminous effect of white stars_5054152.png using Guid(0cc144e2b7c349f4393af63370129928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f403e9a281bbc32ed141edc55b99e07') in 0.013494 seconds 
+  Import took 0.015977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004147 seconds.
+  path: Assets/Materiales/introScreen/Estrellas/—Pngtree—luminous effect of white stars_5054152.png
+  artifactKey: Guid(0cc144e2b7c349f4393af63370129928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/introScreen/Estrellas/—Pngtree—luminous effect of white stars_5054152.png using Guid(0cc144e2b7c349f4393af63370129928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f403e9a281bbc32ed141edc55b99e07') in 0.017674 seconds 
+  Import took 0.020136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.780031 seconds.
+  path: Assets/Materiales/introScreen/Estrellas/EstrellaTipo2.png
+  artifactKey: Guid(0cc144e2b7c349f4393af63370129928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/introScreen/Estrellas/EstrellaTipo2.png using Guid(0cc144e2b7c349f4393af63370129928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b5180dcb1dc6c0f9c2c332a5b3ab1b') in 0.014199 seconds 
+  Import took 0.016584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.947468 seconds.
+  path: Assets/Materiales/introScreen/Estrellas/EstrellaTipo1.png
+  artifactKey: Guid(daec41cf46ddabe4e8235ce6fb045172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/introScreen/Estrellas/EstrellaTipo1.png using Guid(daec41cf46ddabe4e8235ce6fb045172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c4fed9442f0ef388a5e04ab3a52d0e3') in 0.010533 seconds 
+  Import took 0.012595 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002948 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.965 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.8 MB.
+System memory in use after: 67.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1842.
+Total: 1.942400 ms (FindLiveObjects: 0.208500 ms CreateObjectMapping: 0.078200 ms MarkObjects: 1.602400 ms  DeleteObjects: 0.052300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
